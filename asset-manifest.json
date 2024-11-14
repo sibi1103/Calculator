@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DayBetween/static/css/main.457e591f.css",
+    "main.js": "/DayBetween/static/js/main.16f13b9c.js",
+    "static/js/453.ed3810f9.chunk.js": "/DayBetween/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/DayBetween/index.html",
+    "main.457e591f.css.map": "/DayBetween/static/css/main.457e591f.css.map",
+    "main.16f13b9c.js.map": "/DayBetween/static/js/main.16f13b9c.js.map",
+    "453.ed3810f9.chunk.js.map": "/DayBetween/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.457e591f.css",
+    "static/js/main.16f13b9c.js"
+  ]
+}
