@@ -1,5 +1,7 @@
 # Days and Time Between Dates Calculator
 
+##Website Host URL:[https://sibi1103.github.io/calculator/](https://sibi1103.github.io/calculator/)
+
 This project is a Date Difference Calculator tool that allows users to calculate the number of days and time between two selected dates and times. The application provides flexibility in selecting specific days of the week to include in the calculation and optional start and end times for precise interval measurement.
 
 Features
@@ -16,9 +18,9 @@ git clone <repository-url>
 Navigate into the project directory:
 cd 
 Install dependencies:
-### `npm install`
+## `npm install`
 Start the application:
-### `npm start`
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
