@@ -3,7 +3,7 @@
 A responsive and intuitive web application that allows users to calculate the difference between two dates and times with added flexibility. Built using React, the app provides precise calculations and an easy-to-use interface for various scenarios.
 
 ## 🌐 Live Demo
-Visit the Date and Time Calculator : [https://sibi1103.github.io/calculator/](https://sibi1103.github.io/calculator/)
+View the Application : [Live Site](https://sibi1103.github.io/calculator/)
 
 ### 📌 Key Features
 Date Selection Users can pick a start and end date for the calculation.
@@ -52,15 +52,21 @@ Copy the results by clicking the "Copy" button next to each result.
 Front-end Framework: React
 CSS Framework: (Specify if using Tailwind CSS, Bootstrap, etc.)
 
-# 🛠️ How to Run Locally
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Steps to Run Locally
+Clone the repository:
+git clone
 
+Navigate to the project directory:
+cd my-app
+
+Install dependencies:
 In the project directory, you can run:
+### `npm install`
 
 ### `npm start`
 
@@ -75,7 +81,3 @@ You will also see any lint errors in the console.
 ![Output](image.png)
 
 ![alt text](image-1.png)
-
-## 🖋️ License
-This README provides a summary of the project, instructions for setting up and running it, and an overview of the main features. If you need more customization or detail, feel free to let me know!
-
